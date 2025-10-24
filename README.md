@@ -13,6 +13,9 @@ Open index.html in any browser you wish.
 ## History
 First Commit: Creating basic file structure, as well as the gitignore file. This first commit also includes the argument provided by Tegan.
 Second Commit: This commit added Alex's argument and also added the images used throughout the main page. Small fixes to the README were also made.
+Third and Fourth Commits: To cause a merge conflict intentionally.
+Fifth Commit: To add images of merge conflict into images folder
+Sixth Commit: Adding updated history to README file
 ## Credits
 Alexander Pritchard & Tegan Bathurst-Alden
 ## License
